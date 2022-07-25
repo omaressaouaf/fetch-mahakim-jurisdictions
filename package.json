@@ -1,0 +1,11 @@
+{
+  "name": "fetch-mahakim-jurisdictions",
+  "version": "1.0.0",
+  "description": "Script to fetch mahakim.ma jurisdiction and types and write it to a json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omar Essaouaf",
+  "license": "ISC"
+}
