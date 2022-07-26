@@ -1,0 +1,37 @@
+[
+  {
+    "code": "CA",
+    "name": "Cours d'appel",
+    "arabicName": "محاكم الإستئناف"
+  },
+  {
+    "code": "TPI",
+    "name": "Tribunaux de première instance",
+    "arabicName": "المحاكم الإبتدائية"
+  },
+  {
+    "code": "CAC",
+    "name": "Cours d'appel de commerce",
+    "arabicName": "محاكم الإستئناف التجارية"
+  },
+  {
+    "code": "TC",
+    "name": "Tribunaux de commerce",
+    "arabicName": "المحاكم التجارية"
+  },
+  {
+    "code": "CAA",
+    "name": "Cours administratives d'appel",
+    "arabicName": "محاكم الإستئناف الإدارية"
+  },
+  {
+    "code": "TA",
+    "name": "Tribunaux administratifs",
+    "arabicName": "المحاكم الإدارية"
+  },
+  {
+    "code": "CC",
+    "name": "Cour de cassation",
+    "arabicName": "محكمة النقض"
+  }
+]

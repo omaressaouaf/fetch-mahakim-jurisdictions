@@ -1,0 +1,845 @@
+[
+  { "id": 1, "type": "CA", "name": "La cour d'appel de rabat", "arabicName": "محكمة الاستئناف بالرباط" },
+  { "id": 12, "type": "CA", "name": "Cour d'appel de casablanca", "arabicName": "محكمة الاستئناف الدار البيضاء" },
+  { "id": 18, "type": "CA", "name": "Cour d'appel d'agadir", "arabicName": "محكمة الاستئناف بأكادير" },
+  { "id": 48, "type": "CA", "name": "Bouzuzazate de la cour d'appel", "arabicName": "محكمة الاستئناف بورزازات" },
+  { "id": 62, "type": "CA", "name": "La cour d'appel de al -hoceima", "arabicName": "محكمة الاستئناف بالحسيمة" },
+  { "id": 69, "type": "CA", "name": "Cour d'appel à taza", "arabicName": "محكمة الاستئناف بتازة" },
+  { "id": 86, "type": "CA", "name": "Cour d'appel de beni mellal", "arabicName": "محكمة الاستئناف ببني ملال" },
+  { "id": 110, "type": "CA", "name": "Cour d'appel à fès", "arabicName": "محكمة الاستئناف بفاس" },
+  { "id": 130, "type": "CA", "name": "La cour d'appel de quneitra", "arabicName": "محكمة الاستئناف بالقنيطرة" },
+  { "id": 144, "type": "CA", "name": "Cour d'appel des yeux", "arabicName": "محكمة الاستئناف بالعيون" },
+  { "id": 149, "type": "CA", "name": "La cour d'appel de marrakech", "arabicName": "محكمة الاستئناف بمراكش" },
+  { "id": 160, "type": "CA", "name": "La cour d'appel à meknes", "arabicName": "محكمة الاستئناف بمكناس" },
+  { "id": 177, "type": "CA", "name": "Cour d'appel de rashidiya", "arabicName": "محكمة الاستئناف بالرشيدية" },
+  { "id": 197, "type": "CA", "name": "Cour d'appel à oujda", "arabicName": "محكمة الاستئناف بوجدة" },
+  { "id": 216, "type": "CA", "name": "La cour d'appel de nador", "arabicName": "محكمة الاستئناف بالناضور" },
+  { "id": 222, "type": "CA", "name": "Cour d'appel dans safi", "arabicName": "محكمة الاستئناف بآسفي" },
+  { "id": 232, "type": "CA", "name": "La cour d'appel de jadida", "arabicName": "محكمة الاستئناف بالجديدة" },
+  { "id": 241, "type": "CA", "name": "Cour d'appel à settat", "arabicName": "محكمة الاستئناف بسطات" },
+  { "id": 249, "type": "CA", "name": "Cour d'appel à khouribga", "arabicName": "محكمة الاستئناف بخريبكة" },
+  { "id": 253, "type": "CA", "name": "La cour d'appel de tangier", "arabicName": "محكمة الاستئناف بطنجة" },
+  { "id": 258, "type": "CA", "name": "La cour d'appel de tetouan", "arabicName": "محكمة الاستئناف بتطوان" },
+  { "id": 377, "type": "CA", "name": "La cour d'appel de guelmim", "arabicName": "محكمة الاستئناف بكلميم" },
+  {
+    "id": 2,
+    "type": "TPI",
+    "name": "La cour de première instance à rabat",
+    "arabicName": "المحكمة الابتدائية بالرباط"
+  },
+  { "id": 3, "type": "TPI", "name": "Cour de première instance à sala", "arabicName": "المحكمة الابتدائية بسلا" },
+  {
+    "id": 4,
+    "type": "TPI",
+    "name": "Cour de première instance dans temara",
+    "arabicName": "المحكمة الابتدائية بتمارة"
+  },
+  {
+    "id": 7,
+    "type": "TPI",
+    "name": "La cour de première instance à khamisat",
+    "arabicName": "المحكمة الابتدائية بالخميسات"
+  },
+  { "id": 10, "type": "TPI", "name": "La cour de première instance", "arabicName": "المحكمة الإبتدائية بتيفلت" },
+  {
+    "id": 11,
+    "type": "TPI",
+    "name": "Cour de première instance à rumani",
+    "arabicName": "المحكمة الابتدائية بالرماني"
+  },
+  { "id": 272, "type": "TPI", "name": "Cour élémentaire de première instance", "arabicName": "محكمة ابتدائية نموذجية" },
+  {
+    "id": 305,
+    "type": "TPI",
+    "name": "Cour de rabat de première instance - département de judiciaire familial",
+    "arabicName": "المحكمة الابتدائية بالرباط - قسم قضاء الأسرة"
+  },
+  {
+    "id": 336,
+    "type": "TPI",
+    "name": "Cour de première instance - département judiciaire de la famille",
+    "arabicName": "المحكمة الابتدائية بسلا- قسم قضاء الأسرة"
+  },
+  {
+    "id": 376,
+    "type": "TPI",
+    "name": "Cour khamisat de première instance - département judiciaire de la famille",
+    "arabicName": "المحكمة الابتدائية بالخميسات - قسم قضاء الأسرة"
+  },
+  {
+    "id": 13,
+    "type": "TPI",
+    "name": "Cour civil de première instance à casablanca",
+    "arabicName": "المحكمة الابتدائية المدنية بالدار البيضاء"
+  },
+  {
+    "id": 15,
+    "type": "TPI",
+    "name": "Cour de première instance dans muhammadiyah",
+    "arabicName": "المحكمة الابتدائية بالمحمدية"
+  },
+  {
+    "id": 16,
+    "type": "TPI",
+    "name": "La cour de première instance à benslimane",
+    "arabicName": "المحكمة الابتدائية ببنسليمان"
+  },
+  {
+    "id": 308,
+    "type": "TPI",
+    "name": "Cour sociale de première instance à casablanca",
+    "arabicName": "المحكمة الابتدائية الإجتماعية بالدار البيضاء"
+  },
+  {
+    "id": 117,
+    "type": "TPI",
+    "name": "La cour jurgisan de première instance à casablanca",
+    "arabicName": "المحكمة الابتدائية الزجرية بالدار البيضاء"
+  },
+  { "id": 19, "type": "TPI", "name": "Cour d'agadir de première instance", "arabicName": "المحكمة الإبتدائية بأكادير" },
+  {
+    "id": 21,
+    "type": "TPI",
+    "name": "La cour de première instance à azkan",
+    "arabicName": "المحكمة الابتدائية بإنزكان"
+  },
+  {
+    "id": 26,
+    "type": "TPI",
+    "name": "La cour de première instance à taroudant - le resident juding center à tayima",
+    "arabicName": "المحكمة الإبتدائية بتارودانت - مركز القاضي المقيم بأولاد تايمة"
+  },
+  {
+    "id": 30,
+    "type": "TPI",
+    "name": "Cour de première instance dans taroudant - al -qadi resident center for sons",
+    "arabicName": "المحكمة الابتدائية بتارودانت - مركز القاضي المقيم بأولاد برحيل"
+  },
+  {
+    "id": 31,
+    "type": "TPI",
+    "name": "Taroudant court of first instance",
+    "arabicName": "المحكمة الابتدائية بتارودانت - مركز القاضي المقيم بتافنكولت"
+  },
+  {
+    "id": 32,
+    "type": "TPI",
+    "name": "Cour de première instance à taroudant - al -qadi resident center à talawin",
+    "arabicName": "المحكمة الابتدائية بتارودانت - مركز القاضي المقيم بتالوين"
+  },
+  {
+    "id": 33,
+    "type": "TPI",
+    "name": "Cour de première instance dans tiznit",
+    "arabicName": "المحكمة الابتدائية بتيزنيت"
+  },
+  {
+    "id": 42,
+    "type": "TPI",
+    "name": "Cour de pomme de terre de première instance",
+    "arabicName": "المحكمة الابتدائية بطاطا"
+  },
+  { "id": 46, "type": "TPI", "name": "Asa zak elementary", "arabicName": "ابتدائية آسا الزاك" },
+  {
+    "id": 150,
+    "type": "TPI",
+    "name": "La cour de première instance à taroudant",
+    "arabicName": "المحكمة الإبتدائية بتارودانت"
+  },
+  {
+    "id": 331,
+    "type": "TPI",
+    "name": "Cour de première instance dans taroudant - département judiciaire de la famille",
+    "arabicName": "المحكمة الابتدائية بتارودانت - قسم قضاء الأسرة"
+  },
+  {
+    "id": 346,
+    "type": "TPI",
+    "name": "La cour de première instance - département judiciaire de la famille",
+    "arabicName": "المحكمة الإبتدائية بتزنيت- قسم قضاء الأسرة"
+  },
+  {
+    "id": 347,
+    "type": "TPI",
+    "name": "La cour de première instance - ainskan-family judicial department-",
+    "arabicName": "المحكمة الإبتدائية بإنزكان- قسم قضاء الأسرة-"
+  },
+  {
+    "id": 25,
+    "type": "TPI",
+    "name": "Taroudant court of first instance",
+    "arabicName": "المحكمة الابتدائية بتارودانت"
+  },
+  {
+    "id": 49,
+    "type": "TPI",
+    "name": "La cour de première instance, le département judiciaire de la famille ouarzazate",
+    "arabicName": "المحكمة الإبتدائية بورزازات-قسم قضاء الأسرة"
+  },
+  { "id": 51, "type": "TPI", "name": "La cour de première instance", "arabicName": "المحكمة الإبتدائية بتنغير" },
+  {
+    "id": 55,
+    "type": "TPI",
+    "name": "Le centre de juge résident dans un château de composant - la cour de première instance au tengher",
+    "arabicName": "مركز القاضي المقيم بقلعة مكونة - المحكمة الإبتدائية بتنغير"
+  },
+  { "id": 57, "type": "TPI", "name": "Cour de première instance à zagora", "arabicName": "المحكمة الإبتدائية بزاكورة" },
+  {
+    "id": 60,
+    "type": "TPI",
+    "name": "Le resident judge center à akdz - cour de première instance à zagora",
+    "arabicName": "مركز القاضي المقيم بأكدز - المحكمة الإبتدائية بزاكورة"
+  },
+  {
+    "id": 323,
+    "type": "TPI",
+    "name": "La cour de première instance à ouarzazate",
+    "arabicName": "المحكمة الإبتدائية بورزازات"
+  },
+  {
+    "id": 358,
+    "type": "TPI",
+    "name": "La cour de première instance - dakoura - département judiciaire de la famille",
+    "arabicName": "المحكمة الإبتدائية بزاكورة - قسم قضاء الأسرة"
+  },
+  {
+    "id": 63,
+    "type": "TPI",
+    "name": "Al hoceima cour de première instance",
+    "arabicName": "المحكمة الابتدائية بالحسيمة"
+  },
+  {
+    "id": 65,
+    "type": "TPI",
+    "name": "Cour de première instance à targit",
+    "arabicName": "المحكمة الإبتدائية بتارجيست"
+  },
+  { "id": 70, "type": "TPI", "name": "Cour de première instance à taza", "arabicName": "المحكمة الإبتدائية بتازة" },
+  {
+    "id": 81,
+    "type": "TPI",
+    "name": "Cour de première instance à taza - al -qadi resident center à valley amil",
+    "arabicName": "المحكمة الابتدائية  بتازة - مركز القاضي المقيم بواد أمليل"
+  },
+  {
+    "id": 343,
+    "type": "TPI",
+    "name": "Cour de première instance au département judiciaire de la famille taza-",
+    "arabicName": "المحكمة الإبتدائية بتازة- قسم قضاء الأسرة"
+  },
+  {
+    "id": 87,
+    "type": "TPI",
+    "name": "Cour de première instance dans beni mellal",
+    "arabicName": "المحكمة الابتدائية ببني ملال"
+  },
+  { "id": 89, "type": "TPI", "name": "Al -qadi center reside takizirt", "arabicName": "مركز القاضي المقيم بتاكزيرت" },
+  {
+    "id": 90,
+    "type": "TPI",
+    "name": "Cour de première instance à tadla",
+    "arabicName": "المحكمة الإبتدائية بقصبة تادلة"
+  },
+  {
+    "id": 91,
+    "type": "TPI",
+    "name": "Centre résident al -qadi à al -qasaybah - cour de première instance à tadla qasbah",
+    "arabicName": "مركز القاضي المقيم بالقصيبة - المحكمة الإبتدائية بقصبة تادلة"
+  },
+  {
+    "id": 92,
+    "type": "TPI",
+    "name": "Le centre de juge résident du cheikh - cour de première instance dans tadla qasbah",
+    "arabicName": "مركز القاضي المقيم بزاوية الشيخ - المحكمة الإبتدائية بقصبة تادلة"
+  },
+  {
+    "id": 93,
+    "type": "TPI",
+    "name": "Le juge résident de baghla -jabala - cour de première instance à tadla qasbah",
+    "arabicName": "مركز القاضي المقيم باغبالة - المحكمة الإبتدائية بقصبة تادلة"
+  },
+  {
+    "id": 94,
+    "type": "TPI",
+    "name": "Cour de première instance dans al -faqih bin saleh",
+    "arabicName": "المحكمة الابتدائية بالفقيه بن صالح"
+  },
+  {
+    "id": 95,
+    "type": "TPI",
+    "name": "La cour de première instance, saturday market, les enfants d'al-naam",
+    "arabicName": "المحكمة الإبتدائية بسوق السبت أولاد النمة - مركز القاضي المقيم بدار ولد زيدوح"
+  },
+  {
+    "id": 96,
+    "type": "TPI",
+    "name": "La cour de première instance sur le marché du samedi, les enfants du numa",
+    "arabicName": "المحكمة الإبتدائية بسوق السبت أولاد النمة"
+  },
+  {
+    "id": 101,
+    "type": "TPI",
+    "name": "Cour de première instance dans azilal - al -qadi center resident pabzo",
+    "arabicName": "المحكمة الإبتدائية بأزيلال - مركز القاضي المقيم بابزو"
+  },
+  {
+    "id": 104,
+    "type": "TPI",
+    "name": "Cour bazilal de première instance - al -qadi resident center à damanat",
+    "arabicName": "المحكمة الابتدائية بازيلال - مركز القاضي المقيم بدمنات"
+  },
+  {
+    "id": 108,
+    "type": "TPI",
+    "name": "La cour de première instance en azilal - le resident judge center de takfat",
+    "arabicName": "المحكمة الإبتدائية بأزيلال - مركز القاضي المقيم بتاكفلت"
+  },
+  {
+    "id": 109,
+    "type": "TPI",
+    "name": "La cour de première instance en azilal - le juge résident de tilukite",
+    "arabicName": "المحكمة الإبتدائية بأزيلاال - مركز القاضي المقيم بتيلوكيت"
+  },
+  {
+    "id": 167,
+    "type": "TPI",
+    "name": "La cour de première instance à khenifra",
+    "arabicName": "المحكمة الإبتدائية بخنيفرة"
+  },
+  {
+    "id": 284,
+    "type": "TPI",
+    "name": "La cour de première instance en azilal",
+    "arabicName": "المحكمة الإبتدائية بأزيلال"
+  },
+  {
+    "id": 315,
+    "type": "TPI",
+    "name": "Cour de première instance au département de judiciaire de la famille de khenifra",
+    "arabicName": "المحكمة الابتدائية بخنيفرة- قسم قضاء الأسرة"
+  },
+  {
+    "id": 326,
+    "type": "TPI",
+    "name": "La cour de première instance au département de judiciaire de la famille beni mellal",
+    "arabicName": "المحكمة الابتدائية ببني ملال- قسم قضاء الأسرة"
+  },
+  {
+    "id": 352,
+    "type": "TPI",
+    "name": "La cour de première instance dans al-faqih bin saleh-le département judiciaire familial",
+    "arabicName": "المحكمة الإبتدائية بالفقيه بن صالح-قسم قضاء الأسرة"
+  },
+  {
+    "id": 366,
+    "type": "TPI",
+    "name": "Cour bazilal de première instance - al -qadi center resident play atab",
+    "arabicName": "المحكمة الابتدائية بازيلال - مركز القاضي المقيم بايت اعتاب"
+  },
+  {
+    "id": 275,
+    "type": "TPI",
+    "name": "Cour de première instance en azilal",
+    "arabicName": "المحكمة الابتدائية بأزيلال"
+  },
+  { "id": 111, "type": "TPI", "name": "Cour de première instance à fès", "arabicName": "المحكمة الابتدائية بفاس" },
+  {
+    "id": 112,
+    "type": "TPI",
+    "name": "La cour de première instance dans safr",
+    "arabicName": "المحكمة الابتدائية بصفرو"
+  },
+  {
+    "id": 116,
+    "type": "TPI",
+    "name": "La cour de polman de première instance",
+    "arabicName": "المحكمة الإبتدائية لبولمان بميسور"
+  },
+  {
+    "id": 120,
+    "type": "TPI",
+    "name": "Chemin policier",
+    "arabicName": "المحكمة الابتائية لبولمان بميسور - مركز القاضي المقيم بأوطاط الحاج"
+  },
+  {
+    "id": 122,
+    "type": "TPI",
+    "name": "Cour de première instance en taounate",
+    "arabicName": "المحكمة الابتدائية بتاونات"
+  },
+  {
+    "id": 128,
+    "type": "TPI",
+    "name": "Cour de première instance - taounate - al -qadi résident bitzasa center",
+    "arabicName": "المحكمة الإبتدائية بتاونات - مركز القاضي المقيم بتيسة"
+  },
+  {
+    "id": 339,
+    "type": "TPI",
+    "name": "Fez court of first instance - département de judiciaire familial",
+    "arabicName": "المحكمة الابتدائية بفاس - قسم قضاء الأسرة"
+  },
+  {
+    "id": 131,
+    "type": "TPI",
+    "name": "Cour de première instance dans quneitra",
+    "arabicName": "المحكمة الابتدائية بالقنيطرة"
+  },
+  {
+    "id": 133,
+    "type": "TPI",
+    "name": "Cour de première instance à sidi suleiman",
+    "arabicName": "المحكمة الإبتدائية بسيدي سليمان"
+  },
+  {
+    "id": 134,
+    "type": "TPI",
+    "name": "Cour de première instance sur le marché ouest",
+    "arabicName": "المحكمة الابتدائية بسوق أريعاء الغرب"
+  },
+  {
+    "id": 136,
+    "type": "TPI",
+    "name": "Cour de première instance dans sidi qasim",
+    "arabicName": "المحكمة الابتدائية بسيدي قاسم"
+  },
+  {
+    "id": 137,
+    "type": "TPI",
+    "name": "La cour de première instance du projet belqasiri",
+    "arabicName": "المحكمة الإبتدائية بمشرع بلقصيري"
+  },
+  {
+    "id": 342,
+    "type": "TPI",
+    "name": "La cour de première instance au département de judiciaire de la famille quneitra",
+    "arabicName": "المحكمة الابتدائية بالقنيطرة- قسم قضاء الأسرة"
+  },
+  {
+    "id": 363,
+    "type": "TPI",
+    "name": "Cour de première instance dans sidi qasim - département de judiciaire familial",
+    "arabicName": "المحكمة الإبتدائية بسيدي قاسم - قسم قضاء الأسرة"
+  },
+  { "id": 145, "type": "TPI", "name": "Cour d'œil de première instance", "arabicName": "المحكمة الابتدائية بالعيون" },
+  {
+    "id": 146,
+    "type": "TPI",
+    "name": "Cour d'œil de première instance - al -qadi resident batifah center",
+    "arabicName": "المحكمة الإبتدائية بالعيون - مركز القاضي المقيم بطرفاية"
+  },
+  {
+    "id": 147,
+    "type": "TPI",
+    "name": "Le juge résident de boujdour - cour d'œil de première instance",
+    "arabicName": "مركز القاضي المقيم ببوجدور - المحكمة الإبتدائية بالعيون"
+  },
+  { "id": 148, "type": "TPI", "name": "Cour de première instance smara", "arabicName": "المحكمة الابتدائية بالسمارة" },
+  {
+    "id": 279,
+    "type": "TPI",
+    "name": "Cour de première instance dans la vallée de gold",
+    "arabicName": "المحكمة الإبتدائية بوادي الذهب"
+  },
+  {
+    "id": 348,
+    "type": "TPI",
+    "name": "Cour de première instance - département judiciaire de la famille",
+    "arabicName": "المحكمة الابتدائية بالسمارة - قسم قضاء الأسرة"
+  },
+  {
+    "id": 386,
+    "type": "TPI",
+    "name": "Cour de première instance dans wadi al -dahab - al -qadi resident center à bir kindouz",
+    "arabicName": "المحكمة الإبتدائية بوادي الذهب - مركز القاضي المقيم ببئر كندوز"
+  },
+  {
+    "id": 151,
+    "type": "TPI",
+    "name": "Le resident judge center d'ait oreer - cour de première instance à marrakech",
+    "arabicName": "مركز القاضي المقيم بآيت اورير - المحكمة الإبتدائية بمراكش"
+  },
+  { "id": 154, "type": "TPI", "name": "La cour de première instance", "arabicName": "المحكمة الإبتدائية بامنتانوت" },
+  {
+    "id": 155,
+    "type": "TPI",
+    "name": "Le juge résident de shishawah - la cour de première instance à amantanot",
+    "arabicName": "مركز القاضي المقيم بشيشاوة - المحكمة الإبتدائية بامنتانوت"
+  },
+  {
+    "id": 156,
+    "type": "TPI",
+    "name": "La cour de première instance du château de saragna",
+    "arabicName": "المحكمة الإبتدائية بقلعة السراغنة"
+  },
+  {
+    "id": 157,
+    "type": "TPI",
+    "name": "Le centre de juge résident de sidi rahal - cour de première instance du château de saragna",
+    "arabicName": "مركز القاضي المقيم بسيدي رحال - المحكمة الإبتدائية بقلعة السراغنة"
+  },
+  {
+    "id": 158,
+    "type": "TPI",
+    "name": "Cour de première instance dans ibn jarir",
+    "arabicName": "المحكمة الابتدائية بابن جرير"
+  },
+  {
+    "id": 332,
+    "type": "TPI",
+    "name": "La cour de première instance de marrakech",
+    "arabicName": "المحكمة الإبتدائية بمراكش"
+  },
+  {
+    "id": 360,
+    "type": "TPI",
+    "name": "La cour de première instance de marrakech - département de judiciaire familial",
+    "arabicName": "المحكمة الإبتدائية بمراكش - قسم قضاء الأسرة"
+  },
+  {
+    "id": 161,
+    "type": "TPI",
+    "name": "La cour de première instance dans meknes",
+    "arabicName": "المحكمة الإبتدائية بمكناس"
+  },
+  {
+    "id": 165,
+    "type": "TPI",
+    "name": "La cour de première instance à azrou",
+    "arabicName": "المحكمة الإبتدائية بأزرو"
+  },
+  {
+    "id": 316,
+    "type": "TPI",
+    "name": "La cour de première instance au département de judiciaire de la famille meknnes",
+    "arabicName": "المحكمة الابتدائية بمكناس- قسم قضاء الأسرة"
+  },
+  {
+    "id": 273,
+    "type": "TPI",
+    "name": "La cour de première instance à azaru",
+    "arabicName": "المحكمة الابتدائية بآزرو"
+  },
+  {
+    "id": 173,
+    "type": "TPI",
+    "name": "Cour de première instance dans midelt",
+    "arabicName": "المحكمة الإبتدائية بميدلت"
+  },
+  {
+    "id": 178,
+    "type": "TPI",
+    "name": "Rashidiya cour de première instance",
+    "arabicName": "المحكمة الإبتدائية بالرشيدية"
+  },
+  {
+    "id": 184,
+    "type": "TPI",
+    "name": "Al -rrashidiya cour",
+    "arabicName": "المحكمة الإبتدائية بالرشيدية - مركز القاضي المقيم بكلميمة"
+  },
+  {
+    "id": 189,
+    "type": "TPI",
+    "name": "Cour de première instance dans le centre résident de midelt - al -qadi",
+    "arabicName": "المحكمة الإبتدائية بميدلت - مركز القاضي المقيم بالريش"
+  },
+  {
+    "id": 82,
+    "type": "TPI",
+    "name": "Cour de première instance dans grsif",
+    "arabicName": "المحكمة الابتدائية بجرسيف"
+  },
+  {
+    "id": 198,
+    "type": "TPI",
+    "name": "La cour de première instance à oujda",
+    "arabicName": "المحكمة الابتدائية بوجدة"
+  },
+  {
+    "id": 205,
+    "type": "TPI",
+    "name": "Cour de première instance dans un volcan",
+    "arabicName": "المحكمة الابتدائية ببركان"
+  },
+  {
+    "id": 212,
+    "type": "TPI",
+    "name": "La cour de première instance à bouarfa",
+    "arabicName": "المحكمة الإبتدائية لفجيج ببوعرفة"
+  },
+  { "id": 282, "type": "TPI", "name": "Tribunal de première instance", "arabicName": "المحكمة الإبتدائية بتاوريرت" },
+  {
+    "id": 330,
+    "type": "TPI",
+    "name": "La cour de première instance à oujda - département de judiciaire familial",
+    "arabicName": "المحكمة الابتدائية بوجدة - قسم قضاء الأسرة"
+  },
+  {
+    "id": 351,
+    "type": "TPI",
+    "name": "La cour de première instance, département judiciaire de la famille jarsif",
+    "arabicName": "المحكمة الإبتدائية بجرسيف-قسم قضاء الأسرة"
+  },
+  {
+    "id": 354,
+    "type": "TPI",
+    "name": "La cour de première instance - département judiciaire de la famille",
+    "arabicName": "المحكمة الإبتدائية بتاوريرت - قسم قضاء الأسرة"
+  },
+  {
+    "id": 370,
+    "type": "TPI",
+    "name": "La cour de première instance dans un volcan - département judiciaire de la famille",
+    "arabicName": "المحكمة الإبتدائية ببركان - قسم قضاء الأسرة"
+  },
+  {
+    "id": 277,
+    "type": "TPI",
+    "name": "Cour de première instance à turat",
+    "arabicName": "المحكمة الابتدائية بتاوريرت"
+  },
+  {
+    "id": 217,
+    "type": "TPI",
+    "name": "La cour de première instance à nador",
+    "arabicName": "المحكمة الإبتدائية بالناضور"
+  },
+  { "id": 221, "type": "TPI", "name": "La cour de première instance", "arabicName": "المحكمة الإبتدائية بالدريوش" },
+  {
+    "id": 320,
+    "type": "TPI",
+    "name": "Cour d'al-nador de première instance - département judiciaire de la famille",
+    "arabicName": "المحكمة الابتدائية بالناضور- قسم قضاء الأسرة"
+  },
+  { "id": 223, "type": "TPI", "name": "Cour de première instance, safi", "arabicName": "المحكمة الإبتدائية بآسفي" },
+  {
+    "id": 224,
+    "type": "TPI",
+    "name": "Le centre de juge résident de jumaa asheim - cour de première instance dans safi",
+    "arabicName": "مركز القاضي المقيم بجمعة اسحيم - المحكمة الإبتدائية بآسفي"
+  },
+  {
+    "id": 226,
+    "type": "TPI",
+    "name": "La cour de première instance à youssoufia",
+    "arabicName": "المحكمة الإبتدائية باليوسفية"
+  },
+  {
+    "id": 228,
+    "type": "TPI",
+    "name": "Essaouira court de première instance",
+    "arabicName": "المحكمة الإبتدائية بالصويرة"
+  },
+  {
+    "id": 356,
+    "type": "TPI",
+    "name": "Cour de première instance, safi - département judiciaire de la famille",
+    "arabicName": "المحكمة الابتدائية بآسفي  - قسم قضاء الأسرة"
+  },
+  {
+    "id": 362,
+    "type": "TPI",
+    "name": "La cour de première instance à youssoufia - département de judiciaire familial",
+    "arabicName": "المحكمة الإبتدائية باليوسفية - قسم قضاء الأسرة"
+  },
+  { "id": 233, "type": "TPI", "name": "Jadida court of first instance", "arabicName": "المحكمة الإبتدائية بالجديدة" },
+  {
+    "id": 237,
+    "type": "TPI",
+    "name": "Cour de première instance à sidi bennour",
+    "arabicName": "المحكمة الإبتدائية بسيدي بنور"
+  },
+  {
+    "id": 319,
+    "type": "TPI",
+    "name": "Cour de première instance, sidi bennour - département de judiciaire de la famille",
+    "arabicName": "المحكمة الابتدائية سيدي بنور- قسم قضاء الأسرة"
+  },
+  {
+    "id": 333,
+    "type": "TPI",
+    "name": "Jadida court of first instance - département judiciaire de la famille",
+    "arabicName": "المحكمة الابتدائية بالجديدة- قسم قضاء الأسرة"
+  },
+  { "id": 242, "type": "TPI", "name": "La cour de première instance", "arabicName": "المحكمة الإبتدائية بسطات" },
+  {
+    "id": 244,
+    "type": "TPI",
+    "name": "Le tribunal de première instance - centre résident al -qadi",
+    "arabicName": "المحكمة الإبتدائية بسطات - مركز القاضي المقيم بالبروج"
+  },
+  { "id": 245, "type": "TPI", "name": "Cour initial berrechid", "arabicName": "المحكمة الإبتدائية ببرشيد" },
+  {
+    "id": 248,
+    "type": "TPI",
+    "name": "Cour de première instance à bin ahmed",
+    "arabicName": "المحكمة الابتدائية ببن أحمد"
+  },
+  {
+    "id": 359,
+    "type": "TPI",
+    "name": "Cour de première instance à bin ahmed - département de judiciaire familial",
+    "arabicName": "المحكمة الإبتدائية ببن أحمد - قسم قضاء الأسرة"
+  },
+  {
+    "id": 372,
+    "type": "TPI",
+    "name": "Cour de première instance à rashid - département de judiciaire familial",
+    "arabicName": "المحكمة الابتدائية ببرشيد - قسم قضاء الأسرة"
+  },
+  {
+    "id": 250,
+    "type": "TPI",
+    "name": "La cour de première instance à khouribga",
+    "arabicName": "المحكمة الإبتدائية بخريبكة"
+  },
+  {
+    "id": 251,
+    "type": "TPI",
+    "name": "Cour de première instance dans wadi zem",
+    "arabicName": "المحكمة الإبتدائية بوادي زم"
+  },
+  {
+    "id": 252,
+    "type": "TPI",
+    "name": "Cour de première instance à abu al -jaad",
+    "arabicName": "المحكمة الإبتدائية بأبي الجعد"
+  },
+  {
+    "id": 280,
+    "type": "TPI",
+    "name": "Cour de première instance à abu al -jaad",
+    "arabicName": "المحكمة الابتدائية بأبي الجعد"
+  },
+  {
+    "id": 254,
+    "type": "TPI",
+    "name": "La cour de première instance à tangier",
+    "arabicName": "المحكمة الإبتدائية بطنجة"
+  },
+  {
+    "id": 255,
+    "type": "TPI",
+    "name": "La cour de première instance dans asilah",
+    "arabicName": "المحكمة الإبتدائية بأصيلة"
+  },
+  {
+    "id": 256,
+    "type": "TPI",
+    "name": "La cour de première instance de larache",
+    "arabicName": "المحكمة الإبتدائية بالعرائش"
+  },
+  {
+    "id": 257,
+    "type": "TPI",
+    "name": "La cour de première instance du grand palais",
+    "arabicName": "المحكمة الإبتدائية بالقصر الكبير"
+  },
+  {
+    "id": 313,
+    "type": "TPI",
+    "name": "Cour de première instance dans larache - département judiciaire de la famille",
+    "arabicName": "المحكمة الابتدائية بالعرائش - قسم قضاء الأسرة"
+  },
+  {
+    "id": 355,
+    "type": "TPI",
+    "name": "Cour de première instance dans le grand palais - département judiciaire de la famille",
+    "arabicName": "المحكمة الابتدائية بالقصر الكبير  - قسم قضاء الأسرة"
+  },
+  {
+    "id": 361,
+    "type": "TPI",
+    "name": "La cour de première instance à tanger - département de judiciaire familial",
+    "arabicName": "المحكمة الإبتدائية بطنجة - قسم قضاء الأسرة"
+  },
+  { "id": 140, "type": "TPI", "name": "Cour de première instance et wazzan", "arabicName": "المحكمة الابتدائية وزان" },
+  {
+    "id": 259,
+    "type": "TPI",
+    "name": "La cour de première instance à tetouan",
+    "arabicName": "المحكمة الإبتدائية بتطوان"
+  },
+  {
+    "id": 264,
+    "type": "TPI",
+    "name": "La cour de première instance dans chefchaouen",
+    "arabicName": "المحكمة الإبتدائية بشفشاون"
+  },
+  {
+    "id": 34,
+    "type": "TPI",
+    "name": "Le centre de juge résident de sidi ifni",
+    "arabicName": "مركز القاضي المقيم بسيدي إفني"
+  },
+  {
+    "id": 39,
+    "type": "TPI",
+    "name": "Cour de première instance dans guelmim",
+    "arabicName": "المحكمة الابتدائية بكلميم"
+  },
+  { "id": 47, "type": "TPI", "name": "Cour de première instance à tantan", "arabicName": "المحكمة الابتدائية بطانطان" },
+  {
+    "id": 371,
+    "type": "TPI",
+    "name": "Cour de première instance - tanan - département judiciaire de la famille",
+    "arabicName": "المحكمة الإبتدائية بطانطان - قسم قضاء الأسرة"
+  },
+  {
+    "id": 373,
+    "type": "TPI",
+    "name": "La cour de première instance à koumim - département de judiciaire familial",
+    "arabicName": "المحكمة الإبتدائية بكلميم - قسم قضاء الأسرة"
+  },
+  {
+    "id": 294,
+    "type": "CAC",
+    "name": "Cour d'appel commerciale à casablanca",
+    "arabicName": "محكمة الاستئناف التجارية بالدار البيضاء"
+  },
+  { "id": 297, "type": "CAC", "name": "Cour d'appel commercial de fez", "arabicName": "محكمة الإستئناف التجارية بفاس" },
+  {
+    "id": 302,
+    "type": "CAC",
+    "name": "Cour d'appel commercial à marrakech",
+    "arabicName": "محكمة الإستئناف التجارية بمراكش"
+  },
+  { "id": 295, "type": "TC", "name": "Rabat court court", "arabicName": "المحكمة التجارية بالرباط" },
+  {
+    "id": 296,
+    "type": "TC",
+    "name": "Cour de commercial à casablanca",
+    "arabicName": "المحكمة التجارية بالدار البيضاء"
+  },
+  { "id": 298, "type": "TC", "name": "Cour de commercial de fez", "arabicName": "المحكمة التجارية بفاس" },
+  { "id": 299, "type": "TC", "name": "Cour de commerce de mekns", "arabicName": "المحكمة التجارية بمكناس" },
+  { "id": 300, "type": "TC", "name": "Le tribunal de commercial de oujda", "arabicName": "المحكمة التجارية بوجدة" },
+  { "id": 301, "type": "TC", "name": "Tangier court court", "arabicName": "المحكمة التجارية بطنجة" },
+  { "id": 303, "type": "TC", "name": "Cour de commercial de marrakech", "arabicName": "المحكمة التجارية بمراكش" },
+  { "id": 304, "type": "TC", "name": "Cour de commercial d'agadir", "arabicName": "المحكمةالتجارية بأكادير" },
+  {
+    "id": 285,
+    "type": "CAA",
+    "name": "Cour d'appel administrative à rabat",
+    "arabicName": "محكمة الاستئناف الإدارية بالرباط"
+  },
+  {
+    "id": 291,
+    "type": "CAA",
+    "name": "La cour d'appel administrative de marrakech",
+    "arabicName": "محكمة الإستئناف الإدارية بمراكش"
+  },
+  { "id": 286, "type": "TA", "name": "Cour administratif de rabat", "arabicName": "المحكمة الإدارية بالرباط" },
+  {
+    "id": 287,
+    "type": "TA",
+    "name": "La cour administrative de casablanca",
+    "arabicName": "المحكمة الإدارية بالدار البيضاء"
+  },
+  { "id": 288, "type": "TA", "name": "Cour administratif de fès", "arabicName": "المحكمة الإدارية بفاس" },
+  { "id": 289, "type": "TA", "name": "La cour administrative de meknes", "arabicName": "المحكمة الإدارية بمكناس" },
+  { "id": 290, "type": "TA", "name": "La cour administrative de oujda", "arabicName": "المحكمة الإدارية بوجدة" },
+  { "id": 292, "type": "TA", "name": "La cour administrative de marrakech", "arabicName": "المحكمة الإدارية بمراكش" },
+  { "id": 293, "type": "TA", "name": "Cour administratif d'agadir", "arabicName": "المحكمة الإدارية بأكادير" }
+]
