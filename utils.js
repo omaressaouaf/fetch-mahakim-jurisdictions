@@ -16,14 +16,14 @@ const translateJurisdictionName = async arabicName => {
   return capitalize(res.text);
 };
 
-exports.makeJurisdictionFromMahakimData = async (mahakimJurisdiction, type) => {
+exports.serializeJurisdictionFromMahakimData = async (mahakimJurisdiction, type) => {
   const arabicName = mahakimJurisdiction["nomJuridiction"].trim();
-  const name = await translateJurisdictionName(arabicName);
+  const frenchName = await translateJurisdictionName(arabicName);
 
   return {
-    id: mahakimJurisdiction["idJuridiction"],
+    mahakimId: mahakimJurisdiction["idJuridiction"],
     type,
-    name,
+    frenchName,
     arabicName,
   };
 };

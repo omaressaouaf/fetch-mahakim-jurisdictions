@@ -2,7 +2,7 @@ const {
   fetchParentJurisdictions,
   fetchChildJurisdictionsByInstance,
   fetchChildJurisdictionsByParent,
-  makeJurisdictionFromMahakimData,
+  serializeJurisdictionFromMahakimData,
   writeJurisdictionsIntoJsonFile,
 } = require("./utils");
 
@@ -20,17 +20,17 @@ const {
         if (["TPI", "TC", "TA"].includes(jurisdictionType)) {
           let mahakimChildJurisdictions = await fetchChildJurisdictionsByInstance(mahakimJurisdiction["idJuridiction"]);
           for (const mahakimChildJurisdiction of mahakimChildJurisdictions) {
-            jurisdictions.push(await makeJurisdictionFromMahakimData(mahakimChildJurisdiction, jurisdictionType));
+            jurisdictions.push(await serializeJurisdictionFromMahakimData(mahakimChildJurisdiction, jurisdictionType));
           }
 
           mahakimChildJurisdictions = await fetchChildJurisdictionsByParent(mahakimJurisdiction["idJuridiction"]);
           for (const mahakimChildJurisdiction of mahakimChildJurisdictions) {
             if (!jurisdictions.map(jur => jur.id).includes(mahakimChildJurisdiction["idJuridiction"])) {
-              jurisdictions.push(await makeJurisdictionFromMahakimData(mahakimChildJurisdiction, jurisdictionType));
+              jurisdictions.push(await serializeJurisdictionFromMahakimData(mahakimChildJurisdiction, jurisdictionType));
             }
           }
         } else {
-          jurisdictions.push(await makeJurisdictionFromMahakimData(mahakimJurisdiction, jurisdictionType));
+          jurisdictions.push(await serializeJurisdictionFromMahakimData(mahakimJurisdiction, jurisdictionType));
         }
       }
     }
