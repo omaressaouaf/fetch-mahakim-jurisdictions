@@ -16,6 +16,44 @@ const translateJurisdictionName = async arabicName => {
   return capitalize(res.text);
 };
 
+exports.jurisdictionTypes = [
+  {
+    code: "CA",
+    frenchName: "Cours d'appel",
+    arabicName: "محاكم الإستئناف",
+  },
+  {
+    code: "TPI",
+    frenchName: "Tribunaux de première instance",
+    arabicName: "المحاكم الإبتدائية",
+  },
+  {
+    code: "CAC",
+    frenchName: "Cours d'appel de commerce",
+    arabicName: "محاكم الإستئناف التجارية",
+  },
+  {
+    code: "TC",
+    frenchName: "Tribunaux de commerce",
+    arabicName: "المحاكم التجارية",
+  },
+  {
+    code: "CAA",
+    frenchName: "Cours administratives d'appel",
+    arabicName: "محاكم الإستئناف الإدارية",
+  },
+  {
+    code: "TA",
+    frenchName: "Tribunaux administratifs",
+    arabicName: "المحاكم الإدارية",
+  },
+  {
+    code: "CC",
+    frenchName: "Cour de cassation",
+    arabicName: "محكمة النقض",
+  },
+];
+
 exports.serializeJurisdictionFromMahakimData = async (mahakimJurisdiction, type) => {
   const arabicName = mahakimJurisdiction["nomJuridiction"].trim();
   const frenchName = await translateJurisdictionName(arabicName);
@@ -50,19 +88,19 @@ exports.fetchChildJurisdictionsByParent = async parentJurisdictionId => {
   return res.data["d"];
 };
 
-exports.writeJurisdictionsIntoJsonFile = jurisdictions => {
-  fs.readFile("jurisdictions.json", (err, data) => {
-    if (err) console.error("Error reading the jurisdictions file");
+exports.writeJurisdictionsIntoJsonFile = jurisdictionsGroupedByType => {
+  fs.readFile("jurisdictions-groupedby-type.json", (err, data) => {
+    if (err) console.error("Error reading the jurisdictions-groupedby-type file");
 
-    let jurisdictionsList = JSON.parse(data);
-    jurisdictionsList = jurisdictions;
+    let jurisdictionsGroupedByTypeList = JSON.parse(data);
+    jurisdictionsGroupedByTypeList = jurisdictionsGroupedByType;
 
-    console.info("Writing to jurisdictions file ...");
+    console.info("Writing to jurisdictions-groupedby-type file ...");
 
-    fs.writeFile("jurisdictions.json", JSON.stringify(jurisdictionsList), err => {
-      if (err) console.error("Error Writing to jurisdictionTypes");
+    fs.writeFile("jurisdictions-groupedby-type.json", JSON.stringify(jurisdictionsGroupedByTypeList), err => {
+      if (err) console.error("Error Writing to jurisdictions-groupedby-type");
 
-      console.info(`Jurisdictions were written into the file successfully`);
+      console.info(`Jurisdictions grouped by type were written into the file successfully`);
     });
   });
 };
