@@ -40,7 +40,7 @@ const {
 
           mahakimChildJurisdictions = await fetchChildJurisdictionsByParent(mahakimJurisdiction["idJuridiction"]);
           for (const mahakimChildJurisdiction of mahakimChildJurisdictions) {
-            if (!jurisdictions.map(jur => jur.id).includes(mahakimChildJurisdiction["idJuridiction"])) {
+            if (!jurisdictions.map(jur => jur["mahakimId"]).includes(mahakimChildJurisdiction["idJuridiction"])) {
               jurisdictions.push(
                 await serializeJurisdictionFromMahakimData(mahakimChildJurisdiction, jurisdictionType.code)
               );
