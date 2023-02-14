@@ -1,0 +1,1556 @@
+[
+  {
+    "code": "CA",
+    "frenchName": "Cours d'appel",
+    "arabicName": "محاكم الإستئناف",
+    "jurisdictions": [
+      {
+        "mahakimId": 1,
+        "type": "CA",
+        "frenchName": "La cour d'appel de rabat",
+        "arabicName": "محكمة الاستئناف بالرباط",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 12,
+        "type": "CA",
+        "frenchName": "Cour d'appel de casablanca",
+        "arabicName": "محكمة الاستئناف الدار البيضاء",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 18,
+        "type": "CA",
+        "frenchName": "Cour d'appel d'agadir",
+        "arabicName": "محكمة الاستئناف بأكادير",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 48,
+        "type": "CA",
+        "frenchName": "cour d'appel de ouarzazate",
+        "arabicName": "محكمة الاستئناف بورزازات",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 62,
+        "type": "CA",
+        "frenchName": "cour d'appel d'al-houceima",
+        "arabicName": "محكمة الاستئناف بالحسيمة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 69,
+        "type": "CA",
+        "frenchName": "Cour d'appel de taza",
+        "arabicName": "محكمة الاستئناف بتازة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 86,
+        "type": "CA",
+        "frenchName": "Cour d'appel de beni mellal",
+        "arabicName": "محكمة الاستئناف ببني ملال",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 110,
+        "type": "CA",
+        "frenchName": "Cour d'appel de fès",
+        "arabicName": "محكمة الاستئناف بفاس",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 130,
+        "type": "CA",
+        "frenchName": "La cour d'appel de kenitra",
+        "arabicName": "محكمة الاستئناف بالقنيطرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 144,
+        "type": "CA",
+        "frenchName": "Cour d'appel d'El Aïoun",
+        "arabicName": "محكمة الاستئناف بالعيون",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 149,
+        "type": "CA",
+        "frenchName": "La cour d'appel de marrakech",
+        "arabicName": "محكمة الاستئناف بمراكش",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 160,
+        "type": "CA",
+        "frenchName": "La cour d'appel de meknes",
+        "arabicName": "محكمة الاستئناف بمكناس",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 177,
+        "type": "CA",
+        "frenchName": "Cour d'appel d'Errachidia",
+        "arabicName": "محكمة الاستئناف بالرشيدية",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 197,
+        "type": "CA",
+        "frenchName": "Cour d'appel de oujda",
+        "arabicName": "محكمة الاستئناف بوجدة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 216,
+        "type": "CA",
+        "frenchName": "La cour d'appel de nador",
+        "arabicName": "محكمة الاستئناف بالناضور",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 222,
+        "type": "CA",
+        "frenchName": "Cour d'appel de safi",
+        "arabicName": "محكمة الاستئناف بآسفي",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 232,
+        "type": "CA",
+        "frenchName": "La cour d'appel d'el jadida",
+        "arabicName": "محكمة الاستئناف بالجديدة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 241,
+        "type": "CA",
+        "frenchName": "Cour d'appel de settat",
+        "arabicName": "محكمة الاستئناف بسطات",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 249,
+        "type": "CA",
+        "frenchName": "Cour d'appel de khouribga",
+        "arabicName": "محكمة الاستئناف بخريبكة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 253,
+        "type": "CA",
+        "frenchName": "La cour d'appel de tanger",
+        "arabicName": "محكمة الاستئناف بطنجة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 258,
+        "type": "CA",
+        "frenchName": "La cour d'appel de tetouan",
+        "arabicName": "محكمة الاستئناف بتطوان",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 377,
+        "type": "CA",
+        "frenchName": "La cour d'appel de guelmim",
+        "arabicName": "محكمة الاستئناف بكلميم",
+        "cityFrenchName": ""
+      }
+    ]
+  },
+  {
+    "code": "TPI",
+    "frenchName": "Tribunaux de première instance",
+    "arabicName": "المحاكم الإبتدائية",
+    "jurisdictions": [
+      {
+        "mahakimId": 2,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de rabat",
+        "arabicName": "المحكمة الابتدائية بالرباط",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 3,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de Salé",
+        "arabicName": "المحكمة الابتدائية بسلا",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 4,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de temara",
+        "arabicName": "المحكمة الابتدائية بتمارة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 7,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de Khémisset",
+        "arabicName": "المحكمة الابتدائية بالخميسات",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 10,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de Tiflet",
+        "arabicName": "المحكمة الإبتدائية بتيفلت",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 11,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de Rommani",
+        "arabicName": "المحكمة الابتدائية بالرماني",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 272,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance modéle",
+        "arabicName": "محكمة ابتدائية نموذجية",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 305,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de rabat- département judiciaire de la famille",
+        "arabicName": "المحكمة الابتدائية بالرباط - قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 336,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de salé - département judiciaire de la famille",
+        "arabicName": "المحكمة الابتدائية بسلا- قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 376,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de Khémisset - département judiciaire de la famille",
+        "arabicName": "المحكمة الابتدائية بالخميسات - قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 2,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de rabat",
+        "arabicName": "المحكمة الابتدائية بالرباط",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 3,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de salé",
+        "arabicName": "المحكمة الابتدائية بسلا",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 4,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de temara",
+        "arabicName": "المحكمة الابتدائية بتمارة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 7,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de Khémisset",
+        "arabicName": "المحكمة الابتدائية بالخميسات",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 10,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de Tiflet",
+        "arabicName": "المحكمة الإبتدائية بتيفلت",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 11,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de Rommani",
+        "arabicName": "المحكمة الابتدائية بالرماني",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 13,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de casablanca",
+        "arabicName": "المحكمة الابتدائية المدنية بالدار البيضاء",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 15,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de mohammadia",
+        "arabicName": "المحكمة الابتدائية بالمحمدية",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 16,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de benslimane",
+        "arabicName": "المحكمة الابتدائية ببنسليمان",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 308,
+        "type": "TPI",
+        "frenchName": "tribunal social de première instance de casablanca",
+        "arabicName": "المحكمة الابتدائية الإجتماعية بالدار البيضاء",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 13,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance pénal de casablanca",
+        "arabicName": "المحكمة الابتدائية الزجرية بالدار البيضاء",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 19,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance d'agadir",
+        "arabicName": "المحكمة الإبتدائية بأكادير",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 21,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance d'inezgane",
+        "arabicName": "المحكمة الابتدائية بإنزكان",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 26,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de taroudant - centre du juge résident à oulad tayima",
+        "arabicName": "المحكمة الإبتدائية بتارودانت - مركز القاضي المقيم بأولاد تايمة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 30,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de taroudant - centre du juge résident à oulad rhile",
+        "arabicName": "المحكمة الابتدائية بتارودانت - مركز القاضي المقيم بأولاد برحيل",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 31,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de Taroudant - centre du juge résident à tafenkoulte",
+        "arabicName": "المحكمة الابتدائية بتارودانت - مركز القاضي المقيم بتافنكولت",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 32,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de taroudant - centre du juge résident à taliwin",
+        "arabicName": "المحكمة الابتدائية بتارودانت - مركز القاضي المقيم بتالوين",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 33,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de tiznit",
+        "arabicName": "المحكمة الابتدائية بتيزنيت",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 42,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de tata",
+        "arabicName": "المحكمة الابتدائية بطاطا",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 46,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance d'asa zaak",
+        "arabicName": "المحكمة الابتدائية آسا الزاك",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 150,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de taroudant",
+        "arabicName": "المحكمة الإبتدائية بتارودانت",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 331,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de taroudant - département judiciaire de la famille",
+        "arabicName": "المحكمة الابتدائية بتارودانت - قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 346,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de tiznit - département judiciaire de la famille",
+        "arabicName": "المحكمة الإبتدائية بتزنيت- قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 347,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de Inezgane - département judiciaire de la famille",
+        "arabicName": "المحكمة الإبتدائية بإنزكان- قسم قضاء الأسرة-",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 19,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance d'agadir",
+        "arabicName": "المحكمة الابتدائية بأكادير",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 21,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance d'inezgane",
+        "arabicName": "المحكمة الابتدائية بانزكان",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 25,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de taroudant",
+        "arabicName": "المحكمة الابتدائية بتارودانت",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 33,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de tiznit",
+        "arabicName": "المحكمة الابتدائية بتيزنيت",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 42,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de tata",
+        "arabicName": "المحكمة الابتدائية بطاطا",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 49,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de Ouarzazate - le département judiciaire de la famille",
+        "arabicName": "المحكمة الإبتدائية بورزازات-قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 51,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de tinguir",
+        "arabicName": "المحكمة الإبتدائية بتنغير",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 55,
+        "type": "TPI",
+        "frenchName": "centre du juge résident à kelâat megouna - tribunal de première instance de tinguir",
+        "arabicName": "مركز القاضي المقيم بقلعة مكونة - المحكمة الإبتدائية بتنغير",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 57,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de zagora",
+        "arabicName": "المحكمة الإبتدائية بزاكورة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 60,
+        "type": "TPI",
+        "frenchName": "centre du juge résident à Agdz - tribunal de première instance de zagora",
+        "arabicName": "مركز القاضي المقيم بأكدز - المحكمة الإبتدائية بزاكورة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 323,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de ouarzazate",
+        "arabicName": "المحكمة الإبتدائية بورزازات",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 358,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de zagora - département judiciaire de la famille",
+        "arabicName": "المحكمة الإبتدائية بزاكورة - قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 49,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de ouarzazate",
+        "arabicName": "المحكمة الابتدائية بورزازات",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 51,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de tinguir",
+        "arabicName": "المحكمة الإبتدائية بتنغير",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 63,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance d'al hoceima",
+        "arabicName": "المحكمة الابتدائية بالحسيمة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 65,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de Targuist",
+        "arabicName": "المحكمة الإبتدائية بتارجيست",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 70,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de taza",
+        "arabicName": "المحكمة الإبتدائية بتازة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 81,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de taza - centre du juge résident à oulad amlil",
+        "arabicName": "المحكمة الابتدائية  بتازة - مركز القاضي المقيم بواد أمليل",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 343,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de taza - département judiciaire de la famille",
+        "arabicName": "المحكمة الإبتدائية بتازة- قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 87,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de beni mellal",
+        "arabicName": "المحكمة الابتدائية ببني ملال",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 89,
+        "type": "TPI",
+        "frenchName": "centre de juge résident à Targuist",
+        "arabicName": "مركز القاضي المقيم بتاكزيرت",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 90,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de kasbat tadla",
+        "arabicName": "المحكمة الإبتدائية بقصبة تادلة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 91,
+        "type": "TPI",
+        "frenchName": "Centre de juge résident à Kasbat Tadla - tribunal de première instance de kasbat Tadla",
+        "arabicName": "مركز القاضي المقيم بالقصيبة - المحكمة الإبتدائية بقصبة تادلة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 92,
+        "type": "TPI",
+        "frenchName": "centre de juge résident à zaouia cheikh - tribunal de première instance de kasbat tadla",
+        "arabicName": "مركز القاضي المقيم بزاوية الشيخ - المحكمة الإبتدائية بقصبة تادلة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 93,
+        "type": "TPI",
+        "frenchName": "centre de juge résident à Aghbala - tribunal de première instance de Kasbat Tadla",
+        "arabicName": "مركز القاضي المقيم باغبالة - المحكمة الإبتدائية بقصبة تادلة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 94,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de faqih ben saleh",
+        "arabicName": "المحكمة الابتدائية بالفقيه بن صالح",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 95,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de souk sebt oulad ennema - centre de juge résident à dar ouled zidoukh",
+        "arabicName": "المحكمة الإبتدائية بسوق السبت أولاد النمة - مركز القاضي المقيم بدار ولد زيدوح",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 96,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de souk sebt oulad ennema",
+        "arabicName": "المحكمة الإبتدائية بسوق السبت أولاد النمة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 101,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de azilal - centre de juge résident à abzou",
+        "arabicName": "المحكمة الإبتدائية بأزيلال - مركز القاضي المقيم بابزو",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 104,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de azzilal -centre de juge résident à damanat",
+        "arabicName": "المحكمة الابتدائية بازيلال - مركز القاضي المقيم بدمنات",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 108,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de azilal - centre de juge résident à takfelt",
+        "arabicName": "المحكمة الإبتدائية بأزيلال - مركز القاضي المقيم بتاكفلت",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 109,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de azilal - centre de juge résident à tiloukite",
+        "arabicName": "المحكمة الإبتدائية بأزيلاال - مركز القاضي المقيم بتيلوكيت",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 167,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de khenifra",
+        "arabicName": "المحكمة الإبتدائية بخنيفرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 284,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de azilal",
+        "arabicName": "المحكمة الإبتدائية بأزيلال",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 315,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de khenifra - département judiciaire de la famille ",
+        "arabicName": "المحكمة الابتدائية بخنيفرة- قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 326,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de beni mellal - département judiciaire de la famille",
+        "arabicName": "المحكمة الابتدائية ببني ملال- قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 352,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de fqih ben saleh - département judiciaire de la famille",
+        "arabicName": "المحكمة الإبتدائية بالفقيه بن صالح - قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 366,
+        "type": "TPI",
+        "frenchName": "Cour bazilal de première instance de azzilal - centre de juge résident à ait aâtab",
+        "arabicName": "المحكمة الابتدائية بازيلال - مركز القاضي المقيم بايت اعتاب",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 87,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de beni mellal",
+        "arabicName": "المحكمة الابتدائية ببني ملال",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 94,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de fqih ben saleh",
+        "arabicName": "المحكمة الابتدائية بالفقيه بن صالح",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 96,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de souk sabt ouled ennema",
+        "arabicName": "المحكمة الإبتدائية بسوق السبت أولاد النمة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 275,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de azilal",
+        "arabicName": "المحكمة الابتدائية بأزيلال",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 111,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de fès",
+        "arabicName": "المحكمة الابتدائية بفاس",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 112,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de Sefrou",
+        "arabicName": "المحكمة الابتدائية بصفرو",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 120,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de Missour - centre de juge résident à Outat El Haj",
+        "arabicName": "المحكمة الابتائية لبولمان بميسور - مركز القاضي المقيم بأوطاط الحاج",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 122,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de taounate",
+        "arabicName": "المحكمة الابتدائية بتاونات",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 128,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de taounate - centre de juge résident à tissa",
+        "arabicName": "المحكمة الإبتدائية بتاونات - مركز القاضي المقيم بتيسة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 339,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de fes - département judiciaire de la famille",
+        "arabicName": "المحكمة الابتدائية بفاس - قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 111,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de fes",
+        "arabicName": "المحكمة الابتدائية بفاس",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 112,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de safrou",
+        "arabicName": "المحكمة الابتدائية بصفرو",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 116,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de Boulemane missour",
+        "arabicName": "المحكمة الإبتدائية لبولمان بميسور",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 131,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de kenitra",
+        "arabicName": "المحكمة الابتدائية بالقنيطرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 133,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de sidi slimane",
+        "arabicName": "المحكمة الإبتدائية بسيدي سليمان",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 134,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de Souk El Arbaa",
+        "arabicName": "المحكمة الابتدائية بسوق أريعاء الغرب",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 136,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de sidi kacem",
+        "arabicName": "المحكمة الابتدائية بسيدي قاسم",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 137,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de mechra Bel Ksiri",
+        "arabicName": "المحكمة الإبتدائية بمشرع بلقصيري",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 342,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de kenitra - département judiciaire de la famille",
+        "arabicName": "المحكمة الابتدائية بالقنيطرة- قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 363,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de sidi kacem - département judiciaire de la famille",
+        "arabicName": "المحكمة الإبتدائية بسيدي قاسم - قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 133,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de sidi slimane",
+        "arabicName": "المحكمة الابتدائية بسيدي سليمان",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 134,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de Souk El Arbaa",
+        "arabicName": "المحكمة الابتدائية بسوق الأريعاء",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 146,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance d'El Aïoun- centre de juge résident à Tarfaya",
+        "arabicName": "المحكمة الإبتدائية بالعيون - مركز القاضي المقيم بطرفاية",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 147,
+        "type": "TPI",
+        "frenchName": "centre de juge résident à boujdour - tribunal de première instance d'el Aïoun",
+        "arabicName": "مركز القاضي المقيم ببوجدور - المحكمة الإبتدائية بالعيون",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 279,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de la vallée de gold",
+        "arabicName": "المحكمة الإبتدائية بوادي الذهب",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 348,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance d'essemara - département judiciaire de la famille",
+        "arabicName": "المحكمة الابتدائية بالسمارة - قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 386,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de oued eddahab - centre de juge résident à bir kindouz",
+        "arabicName": "المحكمة الإبتدائية بوادي الذهب - مركز القاضي المقيم ببئر كندوز",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 145,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de el Aïoun",
+        "arabicName": "المحكمة الابتدائية بالعيون",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 279,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de dakhela",
+        "arabicName": "المحكمة الابتدائية بالداخلة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 148,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance d'Essemara",
+        "arabicName": "المحكمة الابتدائية بالسمارة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 147,
+        "type": "TPI",
+        "frenchName": "centre de juge résident à boujdour",
+        "arabicName": "مركز القاضي المقيم ببوجدور",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 151,
+        "type": "TPI",
+        "frenchName": "centre de juge résident à aït ourir - tribunal de première instance de marrakech",
+        "arabicName": "مركز القاضي المقيم بآيت اورير - المحكمة الإبتدائية بمراكش",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 154,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance",
+        "arabicName": "المحكمة الإبتدائية بامنتانوت",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 155,
+        "type": "TPI",
+        "frenchName": "centre de juge résident à shishawah - tribunal de première instance de amantanot",
+        "arabicName": "مركز القاضي المقيم بشيشاوة - المحكمة الإبتدائية بامنتانوت",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 156,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance du château de saragna",
+        "arabicName": "المحكمة الإبتدائية بقلعة السراغنة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 157,
+        "type": "TPI",
+        "frenchName": "centre de juge résident à sidi rahal - tribunal de première instance du château de saragna",
+        "arabicName": "مركز القاضي المقيم بسيدي رحال - المحكمة الإبتدائية بقلعة السراغنة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 158,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de ibn jarir",
+        "arabicName": "المحكمة الابتدائية بابن جرير",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 332,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de marrakech",
+        "arabicName": "المحكمة الإبتدائية بمراكش",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 360,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de marrakech - département judiciaire de la famille",
+        "arabicName": "المحكمة الإبتدائية بمراكش - قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 332,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de marrakech",
+        "arabicName": "المحكمة الابتدائية بمراكش",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 154,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance d'imintanoute",
+        "arabicName": "المحكمة الابتدائية بامنتانوت",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 156,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de Kelaâ Sraghna",
+        "arabicName": "المحكمة الابتدائية بقلعة السراغنة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 158,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de Ben Guerir",
+        "arabicName": "المحكمة الابتدائية بابن جرير",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 155,
+        "type": "TPI",
+        "frenchName": "centre de juge résident à Chichaoua",
+        "arabicName": "مركز القاضي المقيم بشيشاوة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 161,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de meknes",
+        "arabicName": "المحكمة الإبتدائية بمكناس",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 165,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de azrou",
+        "arabicName": "المحكمة الإبتدائية بأزرو",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 316,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de meknes - département judiciaire de la famille",
+        "arabicName": "المحكمة الابتدائية بمكناس- قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 273,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de azrou",
+        "arabicName": "المحكمة الابتدائية بآزرو",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 173,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de midelt",
+        "arabicName": "المحكمة الإبتدائية بميدلت",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 178,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance d'errachidia",
+        "arabicName": "المحكمة الإبتدائية بالرشيدية",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 184,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance d'errachidia - centre de juge résident à guelmima",
+        "arabicName": "المحكمة الإبتدائية بالرشيدية - مركز القاضي المقيم بكلميمة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 189,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de midelt - centre de juge résident à Er-Rich",
+        "arabicName": "المحكمة الإبتدائية بميدلت - مركز القاضي المقيم بالريش",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 82,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de guercif",
+        "arabicName": "المحكمة الابتدائية بجرسيف",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 198,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de oujda",
+        "arabicName": "المحكمة الابتدائية بوجدة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 205,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de berkane",
+        "arabicName": "المحكمة الابتدائية ببركان",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 212,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de Figuig bouarfa",
+        "arabicName": "المحكمة الإبتدائية لفجيج ببوعرفة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 282,
+        "type": "TPI",
+        "frenchName": "Tribunal de première instance de Taourirt",
+        "arabicName": "المحكمة الإبتدائية بتاوريرت",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 330,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de oujda - département judiciaire de la famille",
+        "arabicName": "المحكمة الابتدائية بوجدة - قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 351,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de guercif - département judiciaire de la famille",
+        "arabicName": "المحكمة الإبتدائية بجرسيف - قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 354,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de Taourirt - département judiciaire de la famille",
+        "arabicName": "المحكمة الإبتدائية بتاوريرت - قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 370,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de berkane - département judiciaire de la famille",
+        "arabicName": "المحكمة الإبتدائية ببركان - قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 277,
+        "type": "TPI",
+        "frenchName": "Tribunal de première instance de Taourirt",
+        "arabicName": "المحكمة الابتدائية بتاوريرت",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 217,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de nador",
+        "arabicName": "المحكمة الإبتدائية بالناضور",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 221,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de Driouch",
+        "arabicName": "المحكمة الإبتدائية بالدريوش",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 320,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de nador - département judiciaire de la famille",
+        "arabicName": "المحكمة الابتدائية بالناضور- قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 223,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de safi",
+        "arabicName": "المحكمة الإبتدائية بآسفي",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 224,
+        "type": "TPI",
+        "frenchName": "centre de juge résident à Jamâat Shaim - tribunal de première instance de safi",
+        "arabicName": "مركز القاضي المقيم بجمعة اسحيم - المحكمة الإبتدائية بآسفي",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 226,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de youssoufia",
+        "arabicName": "المحكمة الإبتدائية باليوسفية",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 356,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de safi - département judiciaire de la famille",
+        "arabicName": "المحكمة الابتدائية بآسفي  - قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 362,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de youssoufia - département judiciaire de la famille",
+        "arabicName": "المحكمة الإبتدائية باليوسفية - قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 228,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de essaouira",
+        "arabicName": "المحكمة الابتدائية بالصويرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 237,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de sidi bennour",
+        "arabicName": "المحكمة الإبتدائية بسيدي بنور",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 319,
+        "type": "TPI",
+        "frenchName": "Tribunal de première instance de sidi bennour - département judiciaire de la famille",
+        "arabicName": "المحكمة الابتدائية سيدي بنور- قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 333,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance d'el jadida - département judiciaire de la famille",
+        "arabicName": "المحكمة الابتدائية بالجديدة- قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 233,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance d'el jadida",
+        "arabicName": "المحكمة الابتدائية بالجديدة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 244,
+        "type": "TPI",
+        "frenchName": "Le tribunal de première instance de settat - centre de juge résident à el Borouj",
+        "arabicName": "المحكمة الإبتدائية بسطات - مركز القاضي المقيم بالبروج",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 245,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de berrechid",
+        "arabicName": "المحكمة الإبتدائية ببرشيد",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 248,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de ben ahmed",
+        "arabicName": "المحكمة الابتدائية ببن أحمد",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 359,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de ben ahmed - département judiciaire de la famille",
+        "arabicName": "المحكمة الإبتدائية ببن أحمد - قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 372,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de berrechid - département judiciaire de la famille",
+        "arabicName": "المحكمة الابتدائية ببرشيد - قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 242,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de settat",
+        "arabicName": "المحكمة الابتدائية بسطات",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 250,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de khouribga",
+        "arabicName": "المحكمة الإبتدائية بخريبكة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 251,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de oued zem",
+        "arabicName": "المحكمة الإبتدائية بوادي زم",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 252,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de Bejaâd",
+        "arabicName": "المحكمة الإبتدائية ببجعد",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 280,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de Bejaâd",
+        "arabicName": "المحكمة الابتدائية ببجعد",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 254,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de tanger",
+        "arabicName": "المحكمة الإبتدائية بطنجة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 255,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de asilah",
+        "arabicName": "المحكمة الإبتدائية بأصيلة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 256,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de larache",
+        "arabicName": "المحكمة الإبتدائية بالعرائش",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 257,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de Ksar El Kébir",
+        "arabicName": "المحكمة الإبتدائية بالقصر الكبير",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 313,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de larache - département judiciaire de la famille",
+        "arabicName": "المحكمة الابتدائية بالعرائش - قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 355,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de Ksar El Kébir - département judiciaire de la famille",
+        "arabicName": "المحكمة الابتدائية بالقصر الكبير  - قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 361,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de tanger - département judiciaire de la famille",
+        "arabicName": "المحكمة الإبتدائية بطنجة - قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 140,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de Ouazzane",
+        "arabicName": "المحكمة الابتدائية وزان",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 259,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de tetouan",
+        "arabicName": "المحكمة الإبتدائية بتطوان",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 264,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de chefchaouen",
+        "arabicName": "المحكمة الإبتدائية بشفشاون",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 34,
+        "type": "TPI",
+        "frenchName": "centre de juge résident à sidi ifni",
+        "arabicName": "مركز القاضي المقيم بسيدي إفني",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 39,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de guelmim",
+        "arabicName": "المحكمة الابتدائية بكلميم",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 47,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de tantan",
+        "arabicName": "المحكمة الابتدائية بطانطان",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 371,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de tantan - département judiciaire de la famille",
+        "arabicName": "المحكمة الإبتدائية بطانطان - قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 373,
+        "type": "TPI",
+        "frenchName": "tribunal de première instance de guelmim - département judiciaire de la famille",
+        "arabicName": "المحكمة الإبتدائية بكلميم - قسم قضاء الأسرة",
+        "cityFrenchName": ""
+      }
+    ]
+  },
+  {
+    "code": "CAC",
+    "frenchName": "Cours d'appel de commerce",
+    "arabicName": "محاكم الإستئناف التجارية",
+    "jurisdictions": [
+      {
+        "mahakimId": 294,
+        "type": "CAC",
+        "frenchName": "Cour d'appel commerciale de casablanca",
+        "arabicName": "محكمة الاستئناف التجارية بالدار البيضاء",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 297,
+        "type": "CAC",
+        "frenchName": "Cour d'appel commercial de fes",
+        "arabicName": "محكمة الإستئناف التجارية بفاس",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 302,
+        "type": "CAC",
+        "frenchName": "Cour d'appel commercial de marrakech",
+        "arabicName": "محكمة الإستئناف التجارية بمراكش",
+        "cityFrenchName": ""
+      }
+    ]
+  },
+  {
+    "code": "TC",
+    "frenchName": "Tribunaux de commerce",
+    "arabicName": "المحاكم التجارية",
+    "jurisdictions": [
+      {
+        "mahakimId": 295,
+        "type": "TC",
+        "frenchName": "tribunal de commerce de rabat",
+        "arabicName": "المحكمة التجارية بالرباط",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 296,
+        "type": "TC",
+        "frenchName": "tribunal de commerce de casablanca",
+        "arabicName": "المحكمة التجارية بالدار البيضاء",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 298,
+        "type": "TC",
+        "frenchName": "tribunal de commerce de fes",
+        "arabicName": "المحكمة التجارية بفاس",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 299,
+        "type": "TC",
+        "frenchName": "tribunal de commerce de méknes",
+        "arabicName": "المحكمة التجارية بمكناس",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 300,
+        "type": "TC",
+        "frenchName": "tribunal de commerce de oujda",
+        "arabicName": "المحكمة التجارية بوجدة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 301,
+        "type": "TC",
+        "frenchName": "tribunal de commerce de tanger",
+        "arabicName": "المحكمة التجارية بطنجة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 303,
+        "type": "TC",
+        "frenchName": "tribunal de commerce de marrakech",
+        "arabicName": "المحكمة التجارية بمراكش",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 304,
+        "type": "TC",
+        "frenchName": "tribunal de commerce d'agadir",
+        "arabicName": "المحكمةالتجارية بأكادير",
+        "cityFrenchName": ""
+      }
+    ]
+  },
+  {
+    "code": "CAA",
+    "frenchName": "Cours administratives d'appel",
+    "arabicName": "محاكم الإستئناف الإدارية",
+    "jurisdictions": [
+      {
+        "mahakimId": 285,
+        "type": "CAA",
+        "frenchName": "Cour d'appel administrative de rabat",
+        "arabicName": "محكمة الاستئناف الإدارية بالرباط",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 291,
+        "type": "CAA",
+        "frenchName": "cour d'appel administrative de marrakech",
+        "arabicName": "محكمة الإستئناف الإدارية بمراكش",
+        "cityFrenchName": ""
+      }
+    ]
+  },
+  {
+    "code": "TA",
+    "frenchName": "Tribunaux administratifs",
+    "arabicName": "المحاكم الإدارية",
+    "jurisdictions": [
+      {
+        "mahakimId": 286,
+        "type": "TA",
+        "frenchName": "tribunal administratif de rabat",
+        "arabicName": "المحكمة الإدارية بالرباط",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 287,
+        "type": "TA",
+        "frenchName": "tribunal administratif de casablanca",
+        "arabicName": "المحكمة الإدارية بالدار البيضاء",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 288,
+        "type": "TA",
+        "frenchName": "tribunal administratif de fes",
+        "arabicName": "المحكمة الإدارية بفاس",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 289,
+        "type": "TA",
+        "frenchName": "tribunal administratif de meknes",
+        "arabicName": "المحكمة الإدارية بمكناس",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 290,
+        "type": "TA",
+        "frenchName": "tribunal administratif de oujda",
+        "arabicName": "المحكمة الإدارية بوجدة",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 292,
+        "type": "TA",
+        "frenchName": "tribunal administratif de marrakech",
+        "arabicName": "المحكمة الإدارية بمراكش",
+        "cityFrenchName": ""
+      },
+      {
+        "mahakimId": 293,
+        "type": "TA",
+        "frenchName": "tribunal administratif d'agadir",
+        "arabicName": "المحكمة الإدارية بأكادير",
+        "cityFrenchName": ""
+      }
+    ]
+  },
+  {
+    "code": "CC",
+    "frenchName": "Cour de cassation",
+    "arabicName": "محكمة النقض",
+    "jurisdictions": [
+      {
+        "mahakimId": null,
+        "type": "CC",
+        "frenchName": "Cour de cassation",
+        "arabicName": "محكمة النقض",
+        "cityFrenchName": ""
+      }
+    ]
+  }
+]
